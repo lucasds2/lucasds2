@@ -1,25 +1,26 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="360px" align="center" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="300px" align="center" alt="Computador iuriCode">
 </div>
 <br>
-<p align="center"> 
-  👋 <strong> Hi guys, my name is Lucas and I'm currently studying Front-end/Back-end! </strong>
-</p>
+<h3 align="center"> 
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">  Hi guys, my name is Lucas and I'm currently studying Front-end and Back-end development! 
+</h3>
 <br>
-<p align="center">
-  🦄 <strong> Languages: </strong>
-  <p align="center">
+<h3 align="left">
+  🛠     Languages:
+</h3>
+  <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </p>
-</p>
 
-<p align="center">
+
+<h3 align="left">
   ✍🏼 <strong> You can contact me on these social networks: </strong>
-</p>
+</h3>
 
-<p align="center">
+<p align="left">
   <a href="mailto:lucassantos1662@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
@@ -28,7 +29,7 @@
 
   <a href="https://www.instagram.com/showlucas_/" alt="Instagram">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>  
+</p><br> 
 
 ##
 
